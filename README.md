@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Kaung Khant Kyaw 
 
-<!--
-**Kaungkhantk3/Kaungkhantk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer based in Bangkok, Thailand.
 
-Here are some ideas to get you started:
+I build web applications using modern JavaScript technologies and enjoy designing clean backend systems, scalable APIs, and user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- Computer Engineering student at Mae Fah Luang University (Expected Graduation: 2026)
+- Full-Stack Developer Intern
+- Interested in Backend Development and System Architecture
+- Passionate about building scalable and maintainable software
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+JavaScript • TypeScript • SQL
+
+**Frontend**
+
+React • Tailwind CSS
+
+**Backend**
+
+Node.js • Express
+
+**Database**
+
+MySQL • Prisma
+
+**Tools**
+
+Docker • Git 
+
+---
+## 📫 Contact
+
+Email: kaungkhantluke.dev@gmail.com  
+Location: Bangkok, Thailand  
+
+---
